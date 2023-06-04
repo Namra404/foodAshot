@@ -1,0 +1,24 @@
+.cardDescription{
+    overflow: hidden;
+    font-size: 15px;
+}
+.menuItemIMG{
+    height: 200px;
+    object-fit: cover;
+    border-radius: 30px;
+    border: 1px solid gray;
+    width: 200px;
+}
+.resCard{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 300px;
+    width: 100%;
+    width: 200px;
+    height: 100%;
+}
+
+.resCard button{
+    margin-top: auto;
+}

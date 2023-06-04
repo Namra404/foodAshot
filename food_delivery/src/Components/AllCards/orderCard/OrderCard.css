@@ -1,0 +1,23 @@
+.cardDescription{
+    overflow: hidden;
+    font-size: 15px;
+}
+.menuItemIMG{
+    height: 200px;
+    object-fit: cover;
+    border-radius: 30px;
+    border: 1px solid gray;
+    width: 200px;
+}
+.menu_item_Card{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 300px;
+    width: 200px;
+    height: 100%;
+}
+
+.menu_item_Card button{
+    margin-top: 20px;
+}

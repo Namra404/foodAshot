@@ -1,0 +1,20 @@
+.Catalog{
+    flex: 1;
+    height: 48px;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    padding: 8px;
+    min-width: 1024px;
+    gap: 10px;
+}
+.Catalog_item{
+    height: 100%;
+    display: block;
+    padding: 0 18px;
+    transition: background .2s ease;
+    line-height: 32px;
+    border-radius: 16px;
+    cursor: pointer;
+    background-color:white;
+}

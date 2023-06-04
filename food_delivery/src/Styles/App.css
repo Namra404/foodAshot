@@ -1,0 +1,17 @@
+.DesktopHeader_header{
+    width: 100%;
+    display: flex;
+    background-color: white;
+    position: relative;
+    transition: border-color 0.2s ease-in-out;
+    align-items: center;
+    flex-direction: row;
+}
+.App{
+    overflow-y: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

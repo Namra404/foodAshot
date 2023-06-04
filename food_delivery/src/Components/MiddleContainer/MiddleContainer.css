@@ -1,0 +1,17 @@
+.filter_bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #F5F4F2;
+    border-radius: 22px;
+    width: 100%;
+    margin-bottom: 20px;
+    height: 60px;
+}
+.resCards{
+    width: 1280px;
+}
+.middleContainer{
+    padding-right: 100px;
+    padding-left: 100px;
+}

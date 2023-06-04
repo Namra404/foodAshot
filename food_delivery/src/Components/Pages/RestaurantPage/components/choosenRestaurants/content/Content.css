@@ -1,0 +1,17 @@
+.retstaurantCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu_items{
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    gap: 10px;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+}
+.allContent{
+
+}

@@ -1,0 +1,42 @@
+.SearchInput{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 48px;
+    border-radius: 16px;
+    border: 2px solid;
+    border-color: #FCE000;
+    width: 450px;
+    overflow: hidden;
+}
+.Inpt{
+    flex: 1 1 auto;
+    border: none;
+    height: 100%;
+    outline: none;
+    width: 300px;
+    padding: 7px 10px;
+    font-size: 16px;
+    box-shadow: none;
+    line-height: 18px;
+    border-radius: 0;
+    background-color: transparent;
+}
+.InputButton{
+    border: 1px;
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    background-color: #FCE000;
+    box-shadow: transparent;
+    padding: 15px 24px;
+    cursor: pointer;
+    /*border-top-right-radius: 15px;*/
+    /*border-bottom-right-radius: 15px;*/
+}
+.SearchIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
